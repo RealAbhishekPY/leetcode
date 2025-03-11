@@ -13,3 +13,4 @@ public class Solution {
         return uniqueIndex + 1;
     }
 }
+
