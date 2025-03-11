@@ -13,4 +13,3 @@ public class Solution {
         return candidate;
     }
 }
-
