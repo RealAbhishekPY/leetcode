@@ -43,5 +43,3 @@ public class Solution {
 - For `ransomNote = "aa"` and `magazine = "aab"`, the output is `true`.
 
 This approach runs in O(n) time complexity, where `n` is the length of the `magazine`, and uses O(1) space complexity for the frequency map.
-
-If you have any questions or need further assistance, feel free to ask!
