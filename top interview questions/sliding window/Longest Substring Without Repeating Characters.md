@@ -19,12 +19,17 @@ public class Solution {
     }
 }
 ```
-Explanation:
+### Explanation:
+---
 Initialization: We use a HashMap to store the characters and their latest indices.
+---
 Expanding the Window: We iterate through the string with the right pointer (r).
-Updating the Left Pointer: If the character at right (c) is already in the map, we update the left pointer (l) to be the maximum of its current value or the index after the last occurrence of c.
+---
+Updating the Left Pointer: If the character at right (c) is already in the map, we update the left pointer (l) to be the maximum of its current value or the index after the last occurrence of c.---
 Updating the Map: We update the map with the current character and its index.
+---
 Calculating the Answer: We update ans with the maximum length of the substring found so far.
+---
 This approach ensures that each character is processed in constant time, resulting in a linear time complexity of 
 O
 (
