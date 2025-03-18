@@ -1,4 +1,4 @@
-### Arrays in Java for Solving DSA Problems
+# Arrays in Java for Solving DSA Problems
 
 **Arrays** are fundamental data structures in Java, used to store multiple values of the same type. They are particularly useful in DSA problems for their constant-time access and fixed size.
 
