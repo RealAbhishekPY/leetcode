@@ -1,4 +1,4 @@
-### HashMap in Java for Solving DSA Problems
+# HashMap in Java for Solving DSA Problems
 
 **HashMap** is a part of Java's `java.util` package and provides the functionality of a hash table. It allows storing key-value pairs and provides constant-time performance for basic operations like `get` and `put`.
 
